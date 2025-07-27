@@ -1,3 +1,6 @@
+|[![Go](https://github.com/bylickilabs/ZIP-File-Hasher/actions/workflows/go.yml/badge.svg)](https://github.com/bylickilabs/ZIP-File-Hasher/actions/workflows/go.yml)|
+|---|
+
 # 🔐 ZIP File Hasher
 
 |<img width="1280" height="640" alt="logo" src="https://github.com/user-attachments/assets/1cea97c3-c965-49ec-af0c-fa880643aeff" />|
