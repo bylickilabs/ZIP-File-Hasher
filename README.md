@@ -2,6 +2,14 @@
 
 A powerful Go-based CLI tool to securely hash the contents of ZIP files – 100% local, GDPR-compliant, with zero external dependencies.
 
+<details>
+  <summary>✅ Go Developer</summary>
+
+| ![certificate_of_completion_go](https://github.com/user-attachments/assets/b8eca14b-a2fe-4419-abf0-a7d110a07dd2) |
+|---|
+
+</details>
+
 ---
 
 ## 🚀 Features
@@ -88,7 +96,6 @@ Then run via:
 ## 👨‍💻 Author & License
 
 BYLICKILABS – 2025  
-[GitHub Profile](https://github.com/bylickilabs)
 
 License: MIT  
 [LICENSE](LICENSE)
